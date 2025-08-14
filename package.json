@@ -1,0 +1,23 @@
+{
+  "name": "revoltnew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^7.2.0",
+    "@google/genai": "^1.14.0",
+    "@google/generative-ai": "^0.24.1",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "node-record-lpcm16": "^1.0.1",
+    "wav": "^1.0.2",
+    "ws": "^8.18.3"
+  },
+  "description": ""
+}
